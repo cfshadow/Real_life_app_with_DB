@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "Real_life_app_with_DB"
